@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GHJAt/e7j33irxG/zhaY7IDgfpA=
+		kte46JPqtDsCnWJR85eqHiuR6sQ=
 		</data>
-		<key>Modules/ekyc_ios_v2.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ekyc_ios_v2.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		N5kIeUagaO5bRkoIUHa4ceMS1c0=
+		DLdNGFjKoSehVnvR5KE9Fv61sYE=
 		</data>
-		<key>Modules/ekyc_ios_v2.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/ekyc_ios_v2.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		zJw3eiXVRFCmKTOUHNN/BE1SMaE=
+		dwmXsZG/Kpu+HHfMCMfRHeGPksU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -53,18 +53,18 @@
 			ZYkwooshKUOG6Y68a2ExFaGDxY8UQNVLksiCpXiX20M=
 			</data>
 		</dict>
-		<key>Modules/ekyc_ios_v2.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ekyc_ios_v2.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/UZhyjpL/xm7qAwMxqPDrxsdtvxzJwaJ/aA6DdurFbM=
+			/YovB7q06qtpBYb1FL/znEix/44nfKJH4GJb7/ZB7pY=
 			</data>
 		</dict>
-		<key>Modules/ekyc_ios_v2.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/ekyc_ios_v2.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CrXAbImLeKvmqykXIt8a0HieYEhxvvkZkXF6/YhgmaM=
+			lfK80rDvV06u9j5/sLOnmAju6gpNfVgQTNhxPLNyFrc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
